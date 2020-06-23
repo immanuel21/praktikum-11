@@ -1,0 +1,22 @@
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.exe
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.deps.json
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.dll
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\bin\Debug\netcoreapp3.1\collections.pdb
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\obj\Debug\netcoreapp3.1\collections.dll
+C:\Users\Yofi\Documents\abiyu\collections\collections\collections\obj\Debug\netcoreapp3.1\collections.pdb
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.exe
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.deps.json
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.json
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.runtimeconfig.dev.json
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.dll
+D:\Kuliah\Semester 2\Pemrograman\7\collections\bin\Debug\netcoreapp3.1\collections.pdb
+D:\Kuliah\Semester 2\Pemrograman\7\collections\obj\Debug\netcoreapp3.1\collections.csprojAssemblyReference.cache
+D:\Kuliah\Semester 2\Pemrograman\7\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfoInputs.cache
+D:\Kuliah\Semester 2\Pemrograman\7\collections\obj\Debug\netcoreapp3.1\collections.AssemblyInfo.cs
+D:\Kuliah\Semester 2\Pemrograman\7\collections\obj\Debug\netcoreapp3.1\collections.dll
+D:\Kuliah\Semester 2\Pemrograman\7\collections\obj\Debug\netcoreapp3.1\collections.pdb
